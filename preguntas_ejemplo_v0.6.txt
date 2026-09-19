@@ -1,0 +1,39 @@
+1. ¿Qué ocurre con la Km aparente durante una inhibición competitiva?
+A) Disminuye
+B) Aumenta
+C) No cambia
+D) Se vuelve cero
+Respuesta: B
+Puntos: 1
+
+2. La Vmax permanece sin cambios en una inhibición competitiva.
+Respuesta: Verdadero
+Puntos: 1
+
+Tipo: Premisas
+Pregunta: En la inhibición competitiva:
+Premisa A: Km aumenta
+Premisa B: Vmax se conserva
+Respuesta: C
+Puntos: 2
+Fin pregunta
+
+Palabra: Proteína plasmática responsable principalmente de mantener la presión oncótica.
+Respuesta: Albúmina
+Puntos: 1
+Fin pregunta
+
+Tipo: Doctor
+Pregunta: Explica por qué una alta concentración de sustrato puede superar una inhibición competitiva.
+Respuesta: Porque el sustrato y el inhibidor compiten por el mismo sitio activo.
+Puntos: 3
+Fin pregunta
+
+Tipo: Tabla
+Instrucción: Completa la comparación.
+Encabezados: Variable | Competitiva | No competitiva
+Filas:
+Km | ___ | ___
+Vmax | ___ | ___
+Puntos: 4
+Fin pregunta
